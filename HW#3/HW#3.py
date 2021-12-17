@@ -130,8 +130,8 @@ new_lst_to_sort = list(map(lambda x: x * 2, lst_to_sort))
 print(new_lst_to_sort)
 
 #23
-# list_A = [2, 3, 4]
-# list_B = [5, 6, 7]
+list_A = [2, 3, 4]
+list_B = [5, 6, 7]
 
 
 #24
