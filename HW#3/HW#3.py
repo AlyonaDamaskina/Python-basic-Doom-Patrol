@@ -132,6 +132,8 @@ print(new_lst_to_sort)
 #23
 list_A = [2, 3, 4]
 list_B = [5, 6, 7]
+lst_foo = list(map(lambda x, y: x ** y, list_A, list_B))
+print(lst_foo)
 
 
 #24
